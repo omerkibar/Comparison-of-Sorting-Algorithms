@@ -1,6 +1,6 @@
 /*
-Ömer Kibar 150119037
-Sinan Göçmen 150120519
+Ömer Kibar
+Sinan Göçmen
 This class is used for testing the algorithms
 For the purpose of this class every algorithm returns number of basic operations counted after finding a solution.
 Some of original lines are commented.

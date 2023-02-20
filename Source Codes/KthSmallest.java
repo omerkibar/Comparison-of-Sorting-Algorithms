@@ -1,6 +1,6 @@
 /*
-Ömer Kibar 150119037
-Sinan Göçmen 150120519
+Ömer Kibar
+Sinan Göçmen
 */
 public class KthSmallest{
     public static int byInsertionSort(int[] array, int k) {

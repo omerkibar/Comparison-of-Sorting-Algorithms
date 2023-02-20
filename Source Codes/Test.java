@@ -2,8 +2,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
 /*
-Ömer Kibar 150119037
-Sinan Göçmen 150120519
+Ömer Kibar
+Sinan Göçmen
 Using this class we make our experiments.
 It tests for all inputs that is in inputFiles array.
 It prints number of comparisons to the output file for each input file and for each array inside input files using KthSmallestCount class.

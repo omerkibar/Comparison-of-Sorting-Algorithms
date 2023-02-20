@@ -2,8 +2,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
 /*
-Ömer Kibar 150119037
-Sinan Göçmen 150120519
+Ömer Kibar
+Sinan Göçmen
 This class is for generating input that has different characteristics.
 It creates arrays in given size and writes them into a text file.
 */
